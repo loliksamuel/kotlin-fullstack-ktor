@@ -20,5 +20,9 @@ you can also use in your projects and adapt to your needs.
 
 The project is built using webpack and the [Kotlin frontend plugin](https://github.com/kotlin/kotlin-frontend-plugin). 
 
-To run the frontend, use `./gradlew frontend:run`. This will start a webpack server on port 8080. Navigate to http://localhost:8080 
+See comparison between react native and react kotlin wrapper
+https://hackernoon.com/top-pros-cons-comparison-react-native-vs-kotlin-2a0dfd1df3e3
+
+o run the frontend, use `./gradlew frontend:run`. This will start a webpack server on port 8080. Navigate to http://localhost:8080 
 to start using the application.
+
